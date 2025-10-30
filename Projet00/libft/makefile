@@ -29,6 +29,8 @@ $(SRC_DIR)/ft_strncat.c \
 $(SRC_DIR)/ft_strlcat.c \
 $(SRC_DIR)/ft_strchr.c \
 $(SRC_DIR)/ft_strrchr.c \
+$(SRC_DIR)/ft_strstr.c \
+$(SRC_DIR)/ft_strnstr.c \
 
 OBJS=$(SRCS:.c=.o)
 
