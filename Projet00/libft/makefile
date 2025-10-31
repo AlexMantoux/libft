@@ -31,6 +31,11 @@ $(SRC_DIR)/ft_strchr.c \
 $(SRC_DIR)/ft_strrchr.c \
 $(SRC_DIR)/ft_strstr.c \
 $(SRC_DIR)/ft_strnstr.c \
+$(SRC_DIR)/ft_memalloc.c \
+$(SRC_DIR)/ft_memdel.c \
+$(SRC_DIR)/ft_strnew.c \
+$(SRC_DIR)/ft_strdel.c \
+
 
 OBJS=$(SRCS:.c=.o)
 
